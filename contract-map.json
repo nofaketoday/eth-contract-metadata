@@ -856,6 +856,13 @@
     "symbol": "PLAT",
     "decimals": 18
   },
+  "0xb0866289e870d2efc282406cf4123df6e5bcb652": {
+    "name": "NoFakeCoin",
+    "logo": "nfticon.png",
+    "erc20": true,
+    "symbol": "NFC",
+    "decimals": 18
+  },
   "0x8E870D67F660D95d5be530380D0eC0bd388289E1": {
     "name": "PAX Stablecoin",
     "logo": "pax.svg",
